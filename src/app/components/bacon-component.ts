@@ -22,5 +22,3 @@ export class BaconComponent implements OnInit {
 	}
 
 }
-
-//THIS LOOKED DIFFERENT THAN SCREEN CAST
